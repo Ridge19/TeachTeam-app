@@ -5,6 +5,7 @@
 - Continuation of Assignment 1, now with backend implementation:  
 [https://github.com/rmit-fsd-2025-s1/s3934367-s4079204-a2](https://github.com/rmit-fsd-2025-s1/s3934367-s4079204-a2)
 - cloned and forked from the original repository: [full stack development assignment 2](https://github.com/rmit-fsd-2025-s1/s3934367-s4079204-a2)
+- databse hosted on [PHP MyAdmin - RMIT](https://getmysql.com/phpmyadmin/index.php?route=/&route=%2F)
 
 ---
 
