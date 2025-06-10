@@ -1,0 +1,30 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "commonjs",
+    "typeRoots": ["./node_modules/@types", "./src/types"],
+    "lib": [
+      "es6",
+      "dom"
+    ],
+    "sourceMap": true,
+    "outDir": "./dist",
+    "rootDir": "./src",
+    "strict": true,
+    "moduleResolution": "node",
+    "baseUrl": ".",
+    "esModuleInterop": true,
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "strictPropertyInitialization": false
+  },
+  "include": [
+    "src/**/*",
+    "src/types/express-session.d.ts",
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}

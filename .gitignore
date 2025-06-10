@@ -1,0 +1,9 @@
+package-lock.json
+package.json
+frontend/package-lock.json
+frontend/package.json
+
+# Ignore all node_modules folders
+node_modules/
+frontend/node_modules/
+admin-frontend/node_modules/
